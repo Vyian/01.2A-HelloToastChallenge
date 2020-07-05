@@ -43,7 +43,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginLeft="24dp"
         android:layout_marginTop="16dp"
-        android:background="#D5494949"
+        android:background="@android:color/darker_gray"
         android:onClick="showCount"
         android:text="@string/button_label_zero"
         android:textColor="@android:color/white"
